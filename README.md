@@ -1,14 +1,21 @@
 # NYC_property_sales
 
+![](NYC.png)
+
 ## Overview
 NYC rolling sale data from  April 1 2019 to March 31, 2020
 - Data downloaded from [NYC Open Data](https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page)
 - Glossary of terms [here](https://www1.nyc.gov/assets/finance/downloads/pdf/07pdf/glossary_rsf071607.pdf)
-- NYC building class code description :[here](https://www1.nyc.gov/assets/finance/jump/hlpbldgcode.html)
+- NYC building class code description [here](https://www1.nyc.gov/assets/finance/jump/hlpbldgcode.html)
+- Zip codes downloaded [here](https://catalog.data.gov/dataset/zip-code-boundaries)
 
-![](NYC.png)
 
 ## Files
+nyc-rolling-data.csv
+-
+NYC_EDA.ipynb
+-
+
 
 ## Codes
 
