@@ -27,12 +27,12 @@ NYC_EDA.ipynb
 |Queens   |4    |
 |Staten Island|5|
 
-|Tax Class|Description | Tax Rate for Tax Year 2019/2020|
-|---------|-----------|--------------------------------|
-|1        |One- to three-unit residential properties|21.167%|
-|2        | Residential property with more than 3 units including cooperatives & condominiums|  12.473%|
+|Tax Class|Description |
+|--------|----------|q
+|1        |One- to three-unit residential properties|
+|2        | Residential property with more than 3 units including cooperatives & condominiums|  
 |3        |Most utility property  |12.536%|
-|4        |All commercial and industrial properties, such as office, retail, factory buildings and all other properties not included in tax classes 1, 2 or 3. |10.537%|
+|4        |All commercial and industrial properties, such as office, retail, factory buildings and all other properties not included in tax classes 1, 2 or 3. |
 
 |Building Class Category| Description|
 |-----|----|
